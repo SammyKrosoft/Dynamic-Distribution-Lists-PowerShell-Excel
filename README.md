@@ -39,19 +39,20 @@ Example, I want to create a new Dynamic Distribution Group with the sample optio
 
 -	Step #1 : Select the blue box and hit CTRL + C
  
+![image](https://user-images.githubusercontent.com/33433229/136268830-44fd56ad-2ae8-454b-a8db-e16c32239717.png)
 
 -	Step #2 : Paste the command
 You can choose either to paste the command on a Notepad to save it later as a .PS1 script:
 
-![image](https://user-images.githubusercontent.com/33433229/136268830-44fd56ad-2ae8-454b-a8db-e16c32239717.png)
+![image](https://user-images.githubusercontent.com/33433229/136268852-960321a1-77e1-4117-b2d8-9b81f55fc4f1.png)
 
 Or you can paste it on a PowerShell ISE window on your remote connected server:
 
-![image](https://user-images.githubusercontent.com/33433229/136268852-960321a1-77e1-4117-b2d8-9b81f55fc4f1.png)
+![image](https://user-images.githubusercontent.com/33433229/136268876-2223274a-f5f4-422e-9bb7-b4c24d1c8b18.png)
 
 Or you can directly paste it on an Exchange Management Shell window (WARNING: this will execute your command as well):
  
- ![image](https://user-images.githubusercontent.com/33433229/136268876-2223274a-f5f4-422e-9bb7-b4c24d1c8b18.png)
+![image](https://user-images.githubusercontent.com/33433229/136282682-63dad00a-ec01-4d31-a59d-8ee01c42d0df.png)
 
 And that applies for both of the blue boxes containing the New-DynamicDistributionGroup / Set-DynamicDistributionGroup commands.
 
